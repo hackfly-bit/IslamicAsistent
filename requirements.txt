@@ -1,1 +1,9 @@
 streamlit
+langchain
+langchain-groq
+langchain-pinecone
+sentence-transformers
+langchain-community
+pinecone-client
+langchain-core
+groq
